@@ -3,7 +3,7 @@
   <h1 align="center">Ola Eu sou  <a href="https://github.com/MarceloDevd3/"><i>Italo Marcelo</i></a> </h1>
   <h2>- 👋 Oi Eu sou @MarceloDevd3</h2>
   <h2>- 👀 estou interessado em aprender mais e evoluir como programador ...</h2>
-  <h2>- 🌱 Atualmente estou estudando javascript e bibliotecas  ....</h2>
+  <h2>- 🌱 Atualmente estou estudando React js e typescript  além de sempre revisar minhas base....</h2>
 </div>
 
 
